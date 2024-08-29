@@ -6,4 +6,5 @@ footer{
 footer p{
     display: flex;
     margin: auto;
+    color: var(--text-color-primary);
 }
